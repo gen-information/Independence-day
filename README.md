@@ -21,7 +21,7 @@ The British were successful with their divide and rule policy which led to viole
   <h1 id=abc> Importance </h1>
   <p class=abc> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr><br><br>
   <h1 id=abc> Wishes, Messages and Quotes</h1>
-  <ul type="disc"> <li>Let's keep the memories of all the people who sacrificed their lives for our country alive. Wishing you a Happy Independence Day 2021!</li>
+  <ul id=abc type="disc"> <li>Let's keep the memories of all the people who sacrificed their lives for our country alive. Wishing you a Happy Independence Day 2021!</li>
     <li>Let us honour the struggles of many bravehearts who fought for the country's freedom. Happy Independence Day 2021!</li>
     <li>Let’s salute the martyrs for the sacrifices they made and thank them for giving us our freedom. Happy Independence Day 2021.</li>
     <li>Today we cherish the ones who made our independence possible. Freedom is hard to get, but we were blessed to have it. Let’s appreciate everything we have and celebrate the great miracle of freedom. Happy Independence Day.</li>
