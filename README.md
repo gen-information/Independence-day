@@ -5,13 +5,17 @@
   .abc{text-align:left;font-size:35px;font-family: 'PT Sans Narrow', sans-serif;}
 </style> </head>
 <body> <br><br>
-<i frame width="30" height="40" src="https://www.youtube.com/watch?v=Cn4psZ5CfMA"></i frame>
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=Cn4psZ5CfMA">
+</iframe><br><br>
+
 <p id=abc property:float-left>Independence Day in India,</p> <p id=abc> is celebrated annually on August 15. Independence Day marks the end of British rule in 1947 and the establishment of a free and independent Indian nation. It also marks the anniversary of the partition of the subcontinent into two countries, India and Pakistan, which occurred at midnight on August 14–15, 1947. (In Pakistan, Independence Day is celebrated on August 14.)<br><br>
 Independence Day is marked throughout India with flag-raising ceremonies, drills, and the singing of the Indian national anthem. Additionally, various cultural programs are made available in the state capitals. After the prime minister participates in the flag-raising ceremony at the Red Fort historic monument in Old Delhi, a parade ensues with members of the armed forces and police. The prime minister then delivers a televised address to the country, recounting the major accomplishments of India during the previous year and outlining future challenges and goals. Kite flying has also become an Independence Day tradition, with kites of various sizes, shapes, and colours filling the sky. Also, to commemorate the day, government offices in New Delhi remain lit throughout the holiday, even though they are closed.</p><hr><br><br>
   <h1 class=abc> History </h1>
   <p id=abc> For 200 years, Indians suffered domination of the British colonisers beginning in 1757. Their control over the country was gained by the victory of English East India Company at the Battle of Plassey.<br><br> Indian history is rid with famous events of retaliation and uprisings which eventually drove the Britishers out and forced former viceroy, Lord Mountbatten, to free India on August 15, 1947 after giving the mandate to transfer the power to Indians. The day also marked the partition of British-ruled India into two countries, India and Pakistan.<br><br>
 The British were successful with their divide and rule policy which led to violence between Muslims and Hindus. Owing to this unrest, a separate country was formed on the eve of August 14, 1947 after violent riots, mass casualties and the displacement of nearly 15 million people.</p>
-  <i frame width="30" height="40" src="https://www.youtube.com/watch?v=dqrH9zbyYTA"></i frame><hr><br><br>
+  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=dqrH9zbyYTA">
+</iframe><hr><br><br>
+
   <h1 class=abc> Significance </h1>
   <p id=abc> Independence Day is a reminder of the sacrifices of our valiant freedom fighters who stood up against the colonisers and even suffered harsh consequences unflinchingly, so that the later generations could breathe in free air. Slaving for 200 years and claiming back our country makes us marvel at the great leaders.<br><br>
     On August 15, 1947, the first Prime Minister of Independent India Jawaharlal Nehru unveiled India’s tricolour flag at the Red Fort in Delhi. This practice continues till date as along with the flag hoisting, the Prime Minister delivers a speech from the historic monument.<br><br>
