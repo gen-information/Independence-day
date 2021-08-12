@@ -17,7 +17,7 @@ Independence Day is marked throughout India with flag-raising ceremonies, drills
   <p id=abc> For 200 years, Indians suffered domination of the British colonisers beginning in 1757. Their control over the country was gained by the victory of English East India Company at the Battle of Plassey.<br><br> Indian history is rid with famous events of retaliation and uprisings which eventually drove the Britishers out and forced former viceroy, Lord Mountbatten, to free India on August 15, 1947 after giving the mandate to transfer the power to Indians. The day also marked the partition of British-ruled India into two countries, India and Pakistan.<br><br>
 The British were successful with their divide and rule policy which led to violence between Muslims and Hindus. Owing to this unrest, a separate country was formed on the eve of August 14, 1947 after violent riots, mass casualties and the displacement of nearly 15 million people.</p>
   <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
-   Click me to watch "How independece came to our country"</a><hr><br><br>
+   Click me to watch<br> "How independence came to our country"</a><hr><br><br>
   <h1> Significance </h1>
 <p id=abc> Independence Day is a reminder of the sacrifices of our valiant freedom fighters who stood up against the colonisers and even suffered harsh consequences unflinchingly
   , so that the later generations could breathe in free air. Slaving for 200 years and claiming back our country makes us marvel at the great leaders.<br><br>
@@ -45,6 +45,6 @@ The British were successful with their divide and rule policy which led to viole
     <li> Forget not that the grossest crime is to compromise with injustice and wrong. Remember the eternal law: you must give, if you want to get. - Netaji Subhash Chandra Bose</li>
     <li> Let new India arise out of peasants' cottage, grasping the plough, out of huts, cobbler and sweeper. -Swami Vivekananda</li>
     <li> A country's greatness lies in its undying ideals of love and sacrifice that inspire the mothers of the race. -- Sarojini Naidu</li></ul><hr><br><br>
-    <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch "About India"</a>
+    <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</a>
 
   
