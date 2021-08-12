@@ -2,11 +2,11 @@
 <head>
   <title> Home </title>
 <style>
-#abc{text-align:justify;font-size:30px;font-family: 'Source Sans Pro', sans-serif;property:float-left;}
-  h1,a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;}
+#abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;}
+  h1,a{text-align:center;font-size:30px;font-family: 'Source Sans Pro', sans-serif;}
   html{text-align:center;}
   img{border:solid;}
-  ul{text-align:justify;font-size:30px;font-family: 'Source Sans Pro', sans-serif;}
+  ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;}
 </style> </head>
 <body> <br><br>
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
