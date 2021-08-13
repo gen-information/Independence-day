@@ -3,8 +3,8 @@
   <title> Home </title>
 <style>
 #abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;}
-  h1,a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;text-color:red;}
-  html{text-align:center;background-color:orange,white,green;}
+  h1,a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;font-color:red;}
+  html{text-align:center;background (linear-gradient:orange,white,green);}
   img{border:solid;}
   ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;}
 </style> </head>
