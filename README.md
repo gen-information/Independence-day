@@ -10,7 +10,7 @@
   h1{color:blue;}
   html{text-align:center;}
   img{border:solid;}
-  ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;}
+  ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;color:white;}
   body{background:linear-gradient(#FF4500,#FFFFFF,#008000);}
 </style> </head>
 <body> <br><br>
