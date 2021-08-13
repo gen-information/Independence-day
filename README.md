@@ -8,7 +8,7 @@
   html{text-align:center;}
   img{border:solid;}
   ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;}
-  body{background-image:https://www.google.com/search?q=india+national+flag&rlz=1C1CHBD_enIN900IN900&sxsrf=ALeKk014Nb4TF9m-Y_wtqBOfmQKIYH-0gA:1628848902379&tbm=isch&source=iu&ictx=1&fir=MQJMxQBCnRHhlM%252CNJDIXB5LEgTxgM%252C%252Fm%252F03w4bt&vet=1&usg=AI4_-kRZuJwJ_AEiJP64Ot5vxyL3lpYkgg&sa=X&ved=2ahUKEwjB39-B363yAhXz4XMBHco2AjgQ_B16BAhPEAE#imgrc=MQJMxQBCnRHhlM;}
+  body{background:https://www.google.com/search?q=india+national+flag&rlz=1C1CHBD_enIN900IN900&sxsrf=ALeKk014Nb4TF9m-Y_wtqBOfmQKIYH-0gA:1628848902379&tbm=isch&source=iu&ictx=1&fir=MQJMxQBCnRHhlM%252CNJDIXB5LEgTxgM%252C%252Fm%252F03w4bt&vet=1&usg=AI4_-kRZuJwJ_AEiJP64Ot5vxyL3lpYkgg&sa=X&ved=2ahUKEwjB39-B363yAhXz4XMBHco2AjgQ_B16BAhPEAE#imgrc=MQJMxQBCnRHhlM;}
 </style> </head>
 <body> <br><br>
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
