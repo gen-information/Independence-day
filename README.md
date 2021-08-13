@@ -8,7 +8,7 @@
   html{text-align:center;}
   img{border:solid;}
   ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;}
-  body{background:linear-gradient(#FFA500,#FFFFFF,#98FB98);}
+  body{background:linear-gradient(#FFA500,#FFFFFF,#228B22);}
 </style> </head>
 <body> <br><br>
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
