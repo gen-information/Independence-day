@@ -4,9 +4,10 @@
 <style>
 #abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;}
   h1,a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;color:white;}
-  html{text-align:center;background-color:orange;}
+  html{text-align:center;}
   img{border:solid;}
   ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;}
+  body{background(linear-gradient:orange,white,green);}
 </style> </head>
 <body> <br><br>
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
