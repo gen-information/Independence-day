@@ -4,7 +4,9 @@
 <style>
 #abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;color:purple;}
   p{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;color:black;}
+  .abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;color:white;}
   h1,a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;}
+  a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;color:white;}
   h1{color:blue;}
   html{text-align:center;}
   img{border:solid;}
@@ -43,7 +45,7 @@ The British were successful with their divide and rule policy which led to viole
     <li> Let new India arise out of peasants' cottage, grasping the plough, out of huts, cobbler and sweeper. -Swami Vivekananda</li>
     <li> A country's greatness lies in its undying ideals of love and sacrifice that inspire the mothers of the race. -- Sarojini Naidu</li></ul><hr><br><br>
   <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
-   Click me to watch<br> "How independence came to our country"</a>
+   Click me to watch<br> "How independence came to our country" <br><br>
     <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</a>
 
   
