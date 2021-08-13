@@ -2,8 +2,8 @@
 <head>
   <title> Home </title>
 <style>
-#abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;}
-  h1,a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;color:white;}
+#abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;color:green;}
+  h1,a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;color:orange;}
   html{text-align:center;}
   img{border:solid;}
   ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;}
