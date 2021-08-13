@@ -2,7 +2,7 @@
 <head>
   <title> Home </title>
 <style>
-#abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;}
+#abc{text-align:center;font-size:25px;font-family: 'Source Sans Pro', sans-serif;property:float-left;background-color:green}
   h1,a{text-align:center;font-size:35px;font-family: 'Source Sans Pro', sans-serif;color:white;background-color:orange}
   html{text-align:center;background (linear-gradient:orange,white,green);}
   img{border:solid;}
