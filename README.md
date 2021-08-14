@@ -35,8 +35,8 @@ table{border-color:black;}
 <h1> Importance of Independence day</h1>
   <img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/08/pjimage-12-1628878979.jpg">
   <p> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr>
-  <i frame src="https://www.youtube.com/watch?v=dqrH9zbyYTA"> </i frame>
+  <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
    Click me to watch<br> "How India celebrated its 1st  independence day" <br><br>
-    <i frame src="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</i frame
+    <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</a>
 
   
