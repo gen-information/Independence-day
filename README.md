@@ -11,7 +11,7 @@ img{border:solid;}
 .ghi{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
  ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white;}
  h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white;}
-hr{height:20px;color:pink;background-color:darkpink;}
+hr{height:20px;color:pink;background:dark pink;}
 table{border-color:black;}
 </style> </head>
 <body> <br><br>
