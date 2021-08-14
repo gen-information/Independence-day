@@ -53,7 +53,7 @@ The British were successful with their divide and rule policy which led to viole
     <li> Let new India arise out of peasants' cottage, grasping the plough, out of huts, cobbler and sweeper. -Swami Vivekananda</li>
     <li> A country's greatness lies in its undying ideals of love and sacrifice that inspire the mothers of the race. -- Sarojini Naidu</li></ul><hr>
   <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
-   Click me to watch<br> "How independence came to our country" <br><br>
+   Click me to watch<br> "How India celebrated its 1st  independence day" <br><br>
     <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</a>
 
   
