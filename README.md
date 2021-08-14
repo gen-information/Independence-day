@@ -12,6 +12,7 @@ img{border:solid;}
  ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white;}
  h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white;}
 hr{height:20px;color:pink;background-color:darkpink;}
+table{color:black;}
 </style> </head>
 <body> <br><br>
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
