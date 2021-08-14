@@ -48,7 +48,7 @@ The British were successful with their divide and rule policy which led to viole
     <li> Together we can win the world, together we can conquer our fear and together we can be a happy place. Happy Independence Day!</li>
     <li> Forget not that the grossest crime is to compromise with injustice and wrong. Remember the eternal law: you must give, if you want to get. - Netaji Subhash Chandra Bose</li>
     <li> Let new India arise out of peasants' cottage, grasping the plough, out of huts, cobbler and sweeper. -Swami Vivekananda</li>
-    <li> A country's greatness lies in its undying ideals of love and sacrifice that inspire the mothers of the race. -- Sarojini Naidu</li></ul><hr><br><br>
+    <li> A country's greatness lies in its undying ideals of love and sacrifice that inspire the mothers of the race. -- Sarojini Naidu</li></ul><hr>
   <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
    Click me to watch<br> "How independence came to our country" <br><br>
     <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</a>
