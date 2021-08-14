@@ -11,7 +11,7 @@
   html{text-align:center;}
   img{border:solid;}
   ul{text-align:justify;font-size:25px;font-family: 'Source Sans Pro', sans-serif;color:white;}
-  body{background:linear-gradient(#FF4500,#FFFFFF,#008000);}
+  body{background:linear-gradient(#FF9933,#FFFFFF,#138808);}
 </style> </head>
 <body> <br><br>
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
