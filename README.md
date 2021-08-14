@@ -9,7 +9,7 @@ img{border:solid;}
 .def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:red;}
 .abc{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#000080;text-align:justify;}
 .ghi{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
- ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white;text-align:justify;}
+ p,ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white;text-align:justify;}
  h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white;}
 hr{height:20px;color:pink;background:dark pink;}
 table{border-color:black;}
@@ -36,8 +36,8 @@ The British were successful with their divide and rule policy which led to viole
     event associated with Independence Day. People symbolise their patriotism for the country by using the flag in different sizes and also decorate their homes and belongings
     with the colours of the national flag. Indians living in other parts of the world also celebrate Independence Day, and several cities in the United States have declared 
     India’s Independence Day, August 15 as India Day.</p><hr> 
-<h1 class=ghi> Importance of Independence day</h1>
-  <p class=abc> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr>
+<h1> Importance of Independence day</h1>
+  <p> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr>
   <h1> Wishes, Quotes and Messages </h1><br><br>
   <ul type="disc"> <li>Let's keep the memories of all the people who sacrificed their lives for our country alive. Wishing you a Happy Independence Day 2021!</li>
     <li>Let’s salute the martyrs for the sacrifices they made and thank them for giving us our freedom. Happy Independence Day 2021.</li>
