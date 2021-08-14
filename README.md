@@ -5,13 +5,13 @@
 body{background:linear-gradient(#FF9933,#FFFFFF,#138808);}
 html{text-align:center;}
 img{border:solid;}
-#abc{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:red;property:float-left;}
-.def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:red;}
+#abc{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#FF7722;property:float-left;}
+.def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#FF7722;}
 .abc{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
 .ghi{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
- ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:darkbrown;}
- h1{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:darkbrown;
- a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white;}
+ ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#654321;}
+ h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#654321;}
+ 
 </style> </head>
 <body> <br><br>
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
