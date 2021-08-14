@@ -35,12 +35,7 @@ The British were successful with their divide and rule policy which led to viole
 <p class=abc> Independence Day is a reminder of the sacrifices of our valiant freedom fighters who stood up against the colonisers and even suffered harsh consequences unflinchingly
   , so that the later generations could breathe in free air. Slaving for 200 years and claiming back our country makes us marvel at the great leaders.<br><br>
     On August 15, 1947, the first Prime Minister of Independent India Jawaharlal Nehru unveiled India’s tricolour flag at the Red Fort in Delhi. This practice continues till date
-    as along with the flag hoisting, the Prime Minister delivers a speech from the historic monument.<br><br>
-    A national parade by different battalions of the Indian Army bands follows. However, the Defence Ministry recently stated that due to widespread Covid-19 pandemic, the
-    military bands are preparing their shows in advance. These are likely to be telecast on Independence Day instead of a live performance. Kite flying is also celebrated as an 
-    event associated with Independence Day. People symbolise their patriotism for the country by using the flag in different sizes and also decorate their homes and belongings
-    with the colours of the national flag. Indians living in other parts of the world also celebrate Independence Day, and several cities in the United States have declared 
-    India’s Independence Day, August 15 as India Day.</p><hr> 
+    as along with the flag hoisting, the Prime Minister delivers a speech from the historic monument.</p><hr> 
 <h1> Importance of Independence day</h1>
   <img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/08/pjimage-12-1628878979.jpg">
   <p> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr>
