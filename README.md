@@ -11,7 +11,7 @@ img{border:solid;}
 .ghi{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
  p{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#FF1493;text-align:justify;}
  h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#FF1493}
-  h1 #def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
+  #def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
   a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
   ul{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
 hr{height:20px;color:pink;background:dark pink;}
