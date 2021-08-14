@@ -12,7 +12,7 @@ img{border:solid;}
  ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white;}
  h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white;}
 hr{height:20px;color:pink;background-color:darkpink;}
-table{color:black;}
+table{border-color:black;}
 </style> </head>
 <body> <br><br>
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
@@ -23,8 +23,8 @@ Independence Day is marked throughout India with flag-raising ceremonies, drills
   <p id=abc >  Indian history is rid with famous events of retaliation and uprisings which eventually drove the Britishers out and forced former viceroy, Lord Mountbatten, to free India on August 15, 1947 after giving the mandate to transfer the power to Indians. The day also marked the partition of British-ruled India into two countries, India and Pakistan.<br><br>
 The British were successful with their divide and rule policy which led to violence between Muslims and Hindus. Owing to this unrest, a separate country was formed on the eve of August 14, 1947 after violent riots, mass casualties and the displacement of nearly 15 million people.</p><hr>
   <h1 class=ghi> Freedom Fighters of India </h1>
-  <table class=abc><tr><td>Names</td> <td>Contribution</td></tr> <tr><td>Mahatma Gandhi</td><td>Father of the Nation, Civil Rights Activist in South Africa, Satyagraha, Civil Disobedience Movement, Quit India Movement</td></tr> <tr><td>Dadabhai Naoroji</td><td>Unofficial Ambassador of India</td></tr> <tr><td>Jawaharlal Nehru</td><td>Preeminent fighter,
-    First Prime Minister of India</td></tr> <tr><td>Sardar Vallabhbhai Patel</td><td>Civil Disobedience Movement and Quit India Movement, Unification of India</td></tr> <tr><td>Rani Lakshmi Bai</td><td>Indian Rebellion of 1857</td></tr> <tr><td>Bipin Chandra Pal</td><td>Father of Revolutionary Thoughts, Swadeshi Movement</td></tr> <tr><td>Bhagat Singh</td><td>One of the Most Influential Revolutionary</td></tr> <tr><td>Subhash Chandra Bose</td><td>World War II, Indian National Congress</td></tr></table><hr>
+  <table class=abc><tr><td>Names</td> <td>Contribution</td></tr><br> <tr><td>Mahatma Gandhi</td><td>Father of the Nation, Civil Rights Activist in South Africa, Satyagraha, Civil Disobedience Movement, Quit India Movement</td></tr> <br> <tr><td>Dadabhai Naoroji</td><td>Unofficial Ambassador of India</td></tr> <br> <tr><td>Jawaharlal Nehru</td><td>Preeminent fighter,
+    First Prime Minister of India</td></tr><br>  <tr><td>Sardar Vallabhbhai Patel</td><td>Civil Disobedience Movement and Quit India Movement, Unification of India</td></tr><br> <tr><td>Rani Lakshmi Bai</td><td>Indian Rebellion of 1857</td></tr> <tr><td>Bipin Chandra Pal</td><br><td>Father of Revolutionary Thoughts, Swadeshi Movement</td></tr> <br><tr><td>Bhagat Singh</td><td>One of the Most Influential Revolutionary</td></tr><br><tr><td>Subhash Chandra Bose</td><td>World War II, Indian National Congress</td></tr></table><hr>
   <h1 class=ghi> Significance of Independence day </h1>
 <p class=abc> Independence Day is a reminder of the sacrifices of our valiant freedom fighters who stood up against the colonisers and even suffered harsh consequences unflinchingly
   , so that the later generations could breathe in free air. Slaving for 200 years and claiming back our country makes us marvel at the great leaders.<br><br>
