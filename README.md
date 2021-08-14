@@ -5,13 +5,13 @@
 body{background:linear-gradient(#FF9933,#FFFFFF,#138808);}
 html{text-align:center;}
 img{border:solid; height:230px;width:330px;}
-#abc{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:red;property:float-left;text-align:justify;}
-.def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:red;}
-.abc{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#000080;text-align:justify;}
-.ghi{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
- p{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white;text-align:justify;}
- h1{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
-  a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
+#abc{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:red;property:float-left;text-align:justify;}
+.def{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:red;}
+.abc{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:#000080;text-align:justify;}
+.ghi{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
+ p{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:white;text-align:justify;}
+ h1{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white}
+  a{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white}
 hr{height:20px;color:pink;background:dark pink;}
 table{border-color:black;}
 </style> </head>
