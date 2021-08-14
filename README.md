@@ -9,8 +9,8 @@ img{border:solid;}
 .def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:red;}
 .abc{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#000080;text-align:justify;}
 .ghi{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
- p,ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:white;text-align:justify;}
- h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white;}
+ p,ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#FFC0CB;text-align:justify;}
+ h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#FFC0CB;}
 hr{height:20px;color:pink;background:dark pink;}
 table{border-color:black;}
 </style> </head>
