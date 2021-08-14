@@ -9,8 +9,8 @@ img{border:solid;}
 .def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:red;}
 .abc{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
 .ghi{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
- ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:brown;}
- h1{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:brown;
+ ul{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:darkbrown;}
+ h1{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:darkbrown;
  a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white;}
 </style> </head>
 <body> <br><br>
