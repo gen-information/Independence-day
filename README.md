@@ -13,7 +13,7 @@ img{border:solid;}
  h1,a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:#FF1493}
   h1 #def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
   a{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
-  ul #def{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
+  ul{font-size:30px;font-family: 'Noto Sans JP', sans-serif;color:white}
 hr{height:20px;color:pink;background:dark pink;}
 table{border-color:black;}
 </style> </head>
@@ -42,7 +42,7 @@ The British were successful with their divide and rule policy which led to viole
 <h1> Importance of Independence day</h1>
   <p> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr>
   <h1 id=def> Wishes, Quotes and Messages </h1><br><br>
-  <ul id=def type="disc"> <li>Let's keep the memories of all the people who sacrificed their lives for our country alive. Wishing you a Happy Independence Day 2021!</li>
+  <ul type="disc"> <li>Let's keep the memories of all the people who sacrificed their lives for our country alive. Wishing you a Happy Independence Day 2021!</li>
     <li>Let’s salute the martyrs for the sacrifices they made and thank them for giving us our freedom. Happy Independence Day 2021.</li>
     <li>We got our freedom after a lot of sacrifices; we should never take it for granted.</li>
     <li> A big salute to all the soldiers who sacrificed their lives for our independence! Jai Hind! </li>
