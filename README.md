@@ -4,11 +4,11 @@
 <style>
 html{text-align:center;}
 img{border:solid; height:230px;width:330px;}
-#abc{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:#FF9933;property:float-left;text-align:justify;}
+#abc{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:#138808;property:float-left;text-align:justify;}
 #ghi{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
 .def{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#FF9933}
 .abc{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:#000080;text-align:justify;}
-.ghi{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#000080;}
+.ghi{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:#FF9933;}
  p{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:	#138808;text-align:justify;}
  h1{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:	#138808;}
   a{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:	#138808;}
@@ -26,19 +26,19 @@ table{border-color:black;}
   <h1 class=ghi> Freedom Fighters of India </h1>
   <table class=abc><tr><td>Names</td> <td>Contribution</td></tr><br> <tr><td>Mahatma Gandhi</td><td>Father of the Nation, Civil Rights Activist in South Africa, Satyagraha, Civil Disobedience Movement, Quit India Movement</td></tr> <br> <tr><td>Dadabhai Naoroji</td><td>Unofficial Ambassador of India</td></tr> <br> <tr><td>Jawaharlal Nehru</td><td>Preeminent fighter,
     First Prime Minister of India</td></tr>  <tr><td>Sardar Vallabhbhai Patel</td><td>Civil Disobedience Movement and Quit India Movement, Unification of India</td></tr> <tr><td>Rani Lakshmi Bai</td><td>Indian Rebellion of 1857</td></tr> <tr><td>Bipin Chandra Pal</td> <td>Father of Revolutionary Thoughts, Swadeshi Movement</td></tr> <tr><td>Bhagat Singh</td><td>One of the Most Influential Revolutionary</td></tr><tr><td>Subhash Chandra Bose</td><td>World War II, Indian National Congress</td></tr></table><hr>
-  <h1 class=ghi> Celebration of Independence day</h1>
+  <h1> Celebration of Independence day</h1>
   <img src="https://live.staticflickr.com/4857/32898905948_c96a092b87_b.jpg"><br><br>
   <img src="https://1.bp.blogspot.com/-eg_ZxQ-Px-U/YArXoJXhN8I/AAAAAAAARw8/x0H4zyij6don3khtXL7LJM27GC8Zp30uACLcBGAsYHQ/s650/republic-day1611055803796.jpg"><hr>
   <h1 class=ghi> Significance of Independence day </h1>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgCIp8R7hy4dxQABAzuljyYthk865FzqdbA&usqp=CAU">
 <p class=abc> Independence Day is a reminder of the sacrifices of our valiant freedom fighters who stood up against the colonisers and even suffered harsh consequences unflinchingly
   , so that the later generations could breathe in free air. Slaving for 200 years and claiming back our country makes us marvel at the great leaders.</p><hr> 
-<h1> Importance of Independence day</h1>
+<h1 class=def> Importance of Independence day</h1>
   <img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/08/pjimage-12-1628878979.jpg">
   <p> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr>
-  <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
-   Click me to watch<br> "How India celebrated its 1st  independence day" <br><br>
-    <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"<br><br>
+  <p class=ghi> <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
+    Click me to watch<br> "How India celebrated its 1st  independence day"</p> <br><br>
+  <p id=ghi>  <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</p><br><br>
       <a href="https://www.youtube.com/watch?v=TFHdflPkGeQ"> Click me to watch<br> 75th Independence day news in Delhi </a>
 
   
