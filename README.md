@@ -2,7 +2,7 @@
 <head>
   <title> Home </title>
 <style>
-body{background:linear-gradient(#FF9933,#FFFFFF,#138808);}
+body{background:linear-gradient(#FF9933,#FBFCFC,#138808);}
 html{text-align:center;}
 img{border:solid; height:230px;width:330px;}
 #abc{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:red;property:float-left;text-align:justify;}
@@ -37,6 +37,7 @@ table{border-color:black;}
   <p> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr>
   <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
    Click me to watch<br> "How India celebrated its 1st  independence day" <br><br>
-    <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</a>
+    <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"<br><br>
+      <a href="https://www.youtube.com/watch?v=TFHdflPkGeQ"> Click me to watch<br> 75th Independence day news in Delhi </a>
 
   
