@@ -2,8 +2,8 @@
 <head>
   <title> Home </title>
 <style>
-body{background:linear-gradient(#FF9933,#ffffff,138808);}
-html{text-align:center;background:linear-gradient(#FF9933,#ffffff,138808);}
+body{background:linear-gradient(saffron,white,green);}
+html{text-align:center;background:linear-gradient(saffron,white,green);}
 img{border:solid; height:230px;width:330px;}
 #abc{font-size:20px;font-family: 'Noto Sans JP', sans-serif;color:red;property:float-left;text-align:justify;}
 .def{font-size:25px;font-family: 'Noto Sans JP', sans-serif;color:red;}
