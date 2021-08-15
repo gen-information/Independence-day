@@ -31,14 +31,14 @@ table{border-color:black;}
   <img src="https://1.bp.blogspot.com/-eg_ZxQ-Px-U/YArXoJXhN8I/AAAAAAAARw8/x0H4zyij6don3khtXL7LJM27GC8Zp30uACLcBGAsYHQ/s650/republic-day1611055803796.jpg"><hr>
   <h1 class=ghi> Significance of Independence day </h1>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgCIp8R7hy4dxQABAzuljyYthk865FzqdbA&usqp=CAU">
-<p class=abc> Independence Day is a reminder of the sacrifices of our valiant freedom fighters who stood up against the colonisers and even suffered harsh consequences unflinchingly
+<p> Independence Day is a reminder of the sacrifices of our valiant freedom fighters who stood up against the colonisers and even suffered harsh consequences unflinchingly
   , so that the later generations could breathe in free air. Slaving for 200 years and claiming back our country makes us marvel at the great leaders.</p><hr> 
 <h1 class=def> Importance of Independence day</h1>
   <img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/08/pjimage-12-1628878979.jpg">
   <p> All the citizens of this country need to celebrate the Independence Day to show our solidarity towards the nation. It will also display the respect we have to the freedom fighters who gave their lives for Independence. Independence Day celebration also inspires the young generation to serve the country. Hence, Independence Day celebration is important to keep the spirit of patriotism alive. We wish you a Happy 75th Independence Day!</p><hr>
-  <p class=ghi> <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
-    Click me to watch<br> "How India celebrated its 1st  independence day"</p> <br><br>
-  <p id=ghi>  <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"</p><br><br>
+   <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
+    Click me to watch<br> "How India celebrated its 1st  independence day"<br><br>
+    <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"<br><br>
       <a href="https://www.youtube.com/watch?v=TFHdflPkGeQ"> Click me to watch<br> 75th Independence day news in Delhi </a>
 
   
