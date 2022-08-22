@@ -16,7 +16,7 @@ hr{height:20px;color:pink;background:dark pink;}
 table{border-color:black;}
 </style> </head>
 <body> 
-  <h1 class=def> Independence day </h1>
+  
   <img src="https://m.timesofindia.com/thumb/77541570.cms?resizemode=4&width=400"> <br><br>
 <p id=abc property:float-left>Independence Day in India,</p> <p id=abc> is celebrated annually on August 15. Independence Day marks the end of British rule in 1947 and the establishment of a free and independent Indian nation. It also marks the anniversary of the partition of the subcontinent into two countries, India and Pakistan, which occurred at midnight on August 14–15, 1947. (In Pakistan, Independence Day is celebrated on August 14.)<br><br> </p><hr>
   <h1 class=def> History of Independence day</h1><br>
