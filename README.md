@@ -39,7 +39,7 @@ table{border-color:black;}
    <a href="https://www.youtube.com/watch?v=dqrH9zbyYTA">
     Click me to watch<br> "How India celebrated its 1st  independence day"<br><br>
     <a href="https://www.youtube.com/watch?v=FR43BuYTN08">Click me to watch <br>"About India"<br><br>
-      <a href="https://www.youtube.com/watch?v=TFHdflPkGeQ"> Click me to watch<br> 75th Independence day news in Delhi </a>
-      <h1 style="text-align:left;font-size:30px;"> Created by <br><br> Sanjana P</h1>
+      <a href="https://www.youtube.com/watch?v=TFHdflPkGeQ"> Click me to watch<br> 75th Independence day news in Delhi </a> <br><br>
+      <h1 style="text-align:right;font-size:30px;"> Created by <br><br> Sanjana P</h1>
 
   
